@@ -1,0 +1,10 @@
+/Users/sandeepreddy2alalla/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.deps.json
+/Users/sandeepreddy2alalla/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.runtimeconfig.json
+/Users/sandeepreddy2alalla/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.runtimeconfig.dev.json
+/Users/sandeepreddy2alalla/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.dll
+/Users/sandeepreddy2alalla/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.pdb
+/Users/sandeepreddy2alalla/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/sandeepreddy2alalla/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.AssemblyInfoInputs.cache
+/Users/sandeepreddy2alalla/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.AssemblyInfo.cs
+/Users/sandeepreddy2alalla/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.dll
+/Users/sandeepreddy2alalla/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.pdb
